@@ -20,3 +20,5 @@ jobs:
           VAPID_PUBLIC: ${{ secrets.VAPID_PUBLIC }}
           VAPID_PRIVATE: ${{ secrets.VAPID_PRIVATE }}
           VAPID_SUBJECT: "mailto:ferrenorte2017@gmail.com"
+
+# robo de avisos - Nossa Agenda
