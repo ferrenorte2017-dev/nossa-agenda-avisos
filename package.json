@@ -1,0 +1,12 @@
+{
+  "name": "agenda-avisos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Carteiro de notificações do app Nossa Agenda",
+  "main": "enviar.js",
+  "scripts": { "start": "node enviar.js" },
+  "dependencies": {
+    "firebase-admin": "^12.7.0",
+    "web-push": "^3.6.7"
+  }
+}
